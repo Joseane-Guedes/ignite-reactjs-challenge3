@@ -35,6 +35,7 @@
 - Json-server
 - Context API
 - Custom hooks
+- React Toastify
 
 
 # 🔧 Run Locally
@@ -61,6 +62,10 @@ Start the server
 
 ```bash
   yarn server 
+```
+Run the following command to start this application in a development environment:
+```bash
+  yarn dev 
 ```
 
 # :closed_book: License
